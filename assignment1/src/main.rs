@@ -14,7 +14,3 @@ struct Book{
 struct Library{
     books: Vec<Book>
 }
-
-fn main() {
-    println!("Hello, world!");
-}
